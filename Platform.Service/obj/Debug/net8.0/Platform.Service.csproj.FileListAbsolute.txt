@@ -1,0 +1,17 @@
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\bin\Debug\net8.0\Platform.Service.deps.json
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\bin\Debug\net8.0\Platform.Service.runtimeconfig.json
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\bin\Debug\net8.0\Platform.Service.dll
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\bin\Debug\net8.0\Platform.Service.pdb
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\bin\Debug\net8.0\Platform.Domain.dll
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\bin\Debug\net8.0\Platform.Domain.pdb
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.csproj.AssemblyReference.cache
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.AssemblyInfoInputs.cache
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.AssemblyInfo.cs
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.csproj.CoreCompileInputs.cache
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.csproj.CopyComplete
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.dll
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\refint\Platform.Service.dll
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.pdb
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\Platform.Service.genruntimeconfig.cache
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Service\obj\Debug\net8.0\ref\Platform.Service.dll

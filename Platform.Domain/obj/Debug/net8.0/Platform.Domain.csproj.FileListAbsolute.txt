@@ -1,0 +1,12 @@
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\bin\Debug\net8.0\Platform.Domain.deps.json
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\bin\Debug\net8.0\Platform.Domain.dll
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\bin\Debug\net8.0\Platform.Domain.pdb
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\Platform.Domain.csproj.AssemblyReference.cache
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\Platform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\Platform.Domain.AssemblyInfoInputs.cache
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\Platform.Domain.AssemblyInfo.cs
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\Platform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\Platform.Domain.dll
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\refint\Platform.Domain.dll
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\Platform.Domain.pdb
+C:\Users\erasmus.pham\Desktop\PlatformService\Platform.Domain\obj\Debug\net8.0\ref\Platform.Domain.dll
